@@ -1,0 +1,29 @@
+
+body{
+    width:1200px;
+    margin:auto;
+    background-color: aquamarine;
+    border: 5px solid black;
+    
+}
+h1{
+    margin:0;
+    padding:20px 0;
+    text-shadow: 5px 3px 3px black;
+}
+div{
+    
+    background-color: rgb(233, 113, 187);
+}
+.li{
+    color: yellow;
+}
+#p1{
+    color:rgb(105, 7, 89);
+}
+#p2{
+    color:rgb(12, 207, 126);
+}
+#p3{
+    color:rgb(69, 41, 230);
+}
